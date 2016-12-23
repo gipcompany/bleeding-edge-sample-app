@@ -8,6 +8,8 @@ A sample app for a Bleeding Edge Press book.
 ## Installation
 
 ```bash
+nodeenv --node=0.11.16
+npm install -g karma-cli
 npm install
 ```
 
