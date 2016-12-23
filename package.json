@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/rtfeldman/bleeding-edge-sample-app",
   "dependencies": {
+    "babel-polyfill": "^6.20.0",
     "body-parser": "^1.6.3",
     "browserify": "^4.2.3",
     "es5-shim": "^4.0.1",
